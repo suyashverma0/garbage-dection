@@ -1,0 +1,1 @@
+DATASET_DIR = "Data science course\garbage predictor\garbage_classification"
