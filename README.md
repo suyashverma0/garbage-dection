@@ -37,19 +37,22 @@ Language: Python
 
 Libraries: OpenCV, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-Algorithm: Convolutional Neural Network (CNN) for image classification
 
 Model Input: Images of garbage or clean environments
 
 Model Output: Predicted category of waste
 
-📦 Dataset
+## ♻️ Garbage Classification Dataset
 
-Source: Kaggle
+<a href="https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Download%20Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Dataset Link" />
+</a>
 
-Dataset Name: Garbage Classification Dataset
+This dataset contains images of different categories of garbage, including **plastic, paper, metal, glass, cardboard, and organic waste** —  
+perfect for Machine Learning & Computer Vision based waste detection projects. 🧠  
 
-Link: Download from Kaggle
+
+
 
 Classes: Plastic, Paper, Metal, Glass, Organic, and Others
 
