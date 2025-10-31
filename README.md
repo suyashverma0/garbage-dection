@@ -90,3 +90,7 @@ Deploying the model using Flask / Streamlit for web-based interaction.
 🧾 Conclusion
 
 The Garbage Detection System using ML and OpenCV is a step toward sustainable development using technology. By combining machine learning and image processing, this project demonstrates how AI can contribute to cleaner and smarter cities through automation and environmental intelligence.
+<a href="https://www.kaggle.com/datasets/owner/dataset-name" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Download dataset from Kaggle" />
+</a>
+
