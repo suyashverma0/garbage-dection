@@ -93,28 +93,14 @@ Deploying the model using Flask / Streamlit for web-based interaction.
 🧾 Conclusion
 
 The Garbage Detection System using ML and OpenCV is a step toward sustainable development using technology. By combining machine learning and image processing, this project demonstrates how AI can contribute to cleaner and smarter cities through automation and environmental intelligence.
-## ♻️ Garbage Classification Dataset
 
-<a href="https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/Download%20Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Dataset Link" />
-</a>
 
 This dataset contains images of different categories of garbage, including **plastic, paper, metal, glass, cardboard, and organic waste** —  
 perfect for Machine Learning & Computer Vision based waste detection projects. 🧠  
 
 ---
 
-### 🧰 **How to Download using Kaggle CLI**
 
-```bash
-# 1️⃣ Install kaggle command-line tool
-pip install kaggle
-
-# 2️⃣ Configure your Kaggle API credentials
-#    Go to https://www.kaggle.com -> Account -> Create API Token
-#    Move the downloaded kaggle.json to this location:
-mkdir -p ~/.kaggle
-mv ~/Downloads/kaggle.json ~/.kaggle/
 chmod 600 ~/.kaggle/kaggle.json
 
 # 3️⃣ Download and unzip the Garbage Classification dataset
