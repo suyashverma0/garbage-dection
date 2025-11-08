@@ -101,8 +101,3 @@ perfect for Machine Learning & Computer Vision based waste detection projects. �
 ---
 
 
-chmod 600 ~/.kaggle/kaggle.json
-
-# 3️⃣ Download and unzip the Garbage Classification dataset
-kaggle datasets download -d asdasdasasdas/garbage-classification -p ./data --unzip
-
